@@ -1,4 +1,5 @@
-# SQL
-playing with SQL : https://github.com/clonex33/SQL/wiki
+# FOR LEARNING PURPOSES
+
+WIKI : https://github.com/clonex33/SQL/wiki
 
 
